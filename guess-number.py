@@ -11,7 +11,6 @@ if start >= end:
 	print('初值應大於末值')
 else:
 	r = random.randint(start, end)
-	r = int(r)
 	while True:
 		num = input('請輸入數字')
 		num = int(num)
