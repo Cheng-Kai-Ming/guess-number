@@ -1,5 +1,5 @@
 #如何讓重複的count = count + 1
-#			print('玩了第', count, '次')可以從if/elif/elif之中化簡
+#　　　　　　print('玩了第', count, '次')　　可以從if/elif/elif之中化簡
 #當使用者輸入非數字時 該如何印出'請輸入數字'並回到遊戲之中(初始狀態)
 import random
 start = input('請輸入初值')
